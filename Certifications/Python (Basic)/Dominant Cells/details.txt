@@ -1,0 +1,13 @@
+The question "Python: Dominant Cells" requires you to implement a function numCells that counts the number of dominant cells in a 2-dimensional grid. Here's a detailed description of the problem:
+Problem Description
+
+Input: A 2D grid represented as a list of lists of integers, with n rows and m columns.
+Definition of Dominant Cell: A cell is considered dominant if its value is strictly greater than the values of all its neighboring cells. Neighbors are cells that share a common side or a common corner, meaning a cell can have up to 8 neighbors (top, bottom, left, right, and the four diagonals).
+Objective: Return the total number of dominant cells in the grid.
+Function: Complete the numCells function, which takes a 2D integer array grid as a parameter and returns an integer representing the count of dominant cells.
+
+Constraints
+
+1 ≤ n, m ≤ 500
+There are at least 2 cells in the grid.
+1 ≤ grid[i][j] ≤ 100 (each cell value is between 1 and 100 inclusive).
