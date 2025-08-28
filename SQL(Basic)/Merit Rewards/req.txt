@@ -1,0 +1,2 @@
+The goal is to find employee IDs and names of HR department employees who earned a bonus of $5000 or more in the last quarter.
+
