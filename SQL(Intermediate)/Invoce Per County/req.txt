@@ -1,0 +1,3 @@
+Displays country name, total number of invoices, and average invoice amount
+Formats the average as a floating-point number with 6 decimal places
+Only returns countries where the average invoice amount is greater than the overall average
