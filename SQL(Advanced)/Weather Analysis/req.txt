@@ -1,0 +1,1 @@
+I need to write a query that aggregates the daily temperature data by month to get the monthly maximum, minimum, and average temperatures for the six months.
